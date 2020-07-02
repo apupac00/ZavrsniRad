@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "617386208401",
+    "firebase_url": "https://dadventures-7d1eb.firebaseio.com",
+    "project_id": "dadventures-7d1eb",
+    "storage_bucket": "dadventures-7d1eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617386208401:android:d0534beadb235ab161e330",
+        "android_client_info": {
+          "package_name": "com.example.dadventures"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617386208401-87t1p3gr7c8em4r2muds9mtnfgiufcs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dadventures",
+            "certificate_hash": "d1e2b9d5a1e8250f3f03cf240dd51247aff0f1c5"
+          }
+        },
+        {
+          "client_id": "617386208401-rhold0t4t8rsc1glm3lur59g7amcjsa1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcfjB3K6qVOBtmoGhT_wQMtDayrH0Xl6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617386208401-rhold0t4t8rsc1glm3lur59g7amcjsa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

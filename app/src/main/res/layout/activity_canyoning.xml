@@ -4,4 +4,35 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".canyoning"/>
+    tools:context=".MainActivity">
+
+
+    <ImageView
+        android:id="@+id/imageViewCan"
+        android:layout_width="match_parent"
+        android:layout_height="179dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginRight="0dp"
+        app:srcCompat="@drawable/canyoning_background" />
+
+    <Button
+        android:id="@+id/btnSendCan"
+        android:layout_width="168dp"
+        android:layout_height="26dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="129dp"
+        android:layout_marginRight="120dp"
+        android:background="@drawable/rounded_button"
+        android:text="MORE INFORMATION"
+        android:textColor="#FFFFFF"
+        android:textSize="15sp" />
+
+    <ListView
+        android:id="@+id/listViewCanyoning"
+        android:layout_width="match_parent"
+        android:layout_below="@+id/imageViewCan"
+        android:layout_height="match_parent" />
+
+</RelativeLayout>

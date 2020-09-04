@@ -11,6 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".webview2"></activity>
+        <activity android:name=".ziplineInfo"></activity>
+        <activity android:name=".canyoningInfo"></activity>
         <activity android:name=".FullImageActivity"></activity>
         <activity android:name=".gallery" />
         <activity android:name=".webview1" />
